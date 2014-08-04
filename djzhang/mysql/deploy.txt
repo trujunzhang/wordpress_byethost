@@ -1,0 +1,3 @@
+http://localhost:8888/wordpress
+
+http://wanghaobt720.byethost32.com/blog/wordpress
