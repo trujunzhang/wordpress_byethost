@@ -1,6 +1,13 @@
 <div id="sidebar">
 <ul>
 
+    <li id="search-2" class="widget widget_search"><form method="get" id="searchform" action="<?php echo network_site_url( '/' );?>" _lpchecked="1">
+            <div><input type="text" value="" name="s" id="s">
+                <input type="submit" id="searchsubmit" value="Search">
+            </div>
+        </form>
+    </li>
+
   <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar() ) : ?>
 
     <li>
