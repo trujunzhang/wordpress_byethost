@@ -8,6 +8,20 @@
         </form>
     </li>
 
+    <li id="text-431775544" class="widget widget_text"><h2 class="sidebartitle">GitHub</h2>
+        <div class="textwidget"><center>
+                <iframe src="http://githubbadge.appspot.com/badge/wanghaogithub720" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameborder="0"></iframe>
+            </center>
+        </div>
+    </li>
+
+    <li id="text-431775541" class="widget widget_text"><h2 class="sidebartitle">Twitter</h2>
+        <div class="textwidget"><center><a href="http://twitter.com/wanghaotwit720" target="_top">
+                    <img src="http://www.searchmarketinggurus.com/conference-badges/twitter-badge.png" border="0"></a></center>
+        </div>
+    </li>
+
+
   <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar() ) : ?>
 
     <li>
