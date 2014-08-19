@@ -1,0 +1,63 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "\"gMjDJfS6nsym0T-NKCXALC_u_rM/oD1Ih6b-snff7voBldrv2pu6JO4\"",
+    "pageInfo":    {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    },
+    "items": [   {
+        "kind": "youtube#video",
+        "etag": "\"gMjDJfS6nsym0T-NKCXALC_u_rM/N7GDlm-hxxFRDnX6v42hM6K374M\"",
+        "id": "GhHUUkyWz40",
+        "snippet":       {
+            "publishedAt": "2014-04-17T23:00:52.000Z",
+            "channelId": "UCqKRlX8Pi6xg-lAAzkt3wfA",
+            "title": "Sony Vegas Pro 13 - Tutorial for Beginners [COMPLETE]",
+            "description": "[VOICE + TEXT] Get into a new Way of Learning Sony Vegas Pro 13. Vegas Pro 13 tutorial for beginners, getting started, basics. *Smart Index below*\nFull Guide here: http://bit.ly/sonyvegaspro13\nI am a non-Native English speaker, leave feedbacks to improve teaching quality!\n\n---*Smart Index*---\n- 00:22 What is Sony Vegas Pro 13?;\n- 00:47 the Workspace (Windows, Timeline);\n- 01:47 How to add Files;\n- 02:09 Video and Audio Tracks;\n- 03:11 Media Online and Offline;\n- 03:38 Managing Timeline; \n- 03:56 the Preview and the Loop Region;\n- 05:39 How to set Project Properties;\n- 06:07 How to change Preview Quality;\n- 06:22 Order of Visibility between Clips;\n- 07:04 the Selection Tools;\n- 07:36 Editing Clips: moving, separating audio from video;\n- 08:20 Editing Clips: stretching, trimming (NEW: Time Stretch/Compress Tool);\n- 10:00 How to set Opacity(or Volume) on Clips;\n- 10:30 The Fade Transitions;\n- 11:39 How to Split Clips (NEW: Split Trim Tool) and Cut Parts;\n- 12:19 [NEW] How to apply Phase Shift (Slip Tool);\n- 12:57 How to manage Video and Audio Tracks;\n- 13:26 Level, Volume, Panning Bar, Mute and Solo buttons;\n- 14:37 How to Save your Project;\n\nWelcome to The Skills Factory™! A new brilliant Latin teacher will guide you through the most important softwares awailable. Leave a comment to make tutorial requests! Subscribe to start learning anything! ♥ Mwah!",
+            "thumbnails":          {
+                "default":             {
+                    "url": "https://i.ytimg.com/vi/GhHUUkyWz40/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium":             {
+                    "url": "https://i.ytimg.com/vi/GhHUUkyWz40/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high":             {
+                    "url": "https://i.ytimg.com/vi/GhHUUkyWz40/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "bai",
+            "categoryId": "24",
+            "liveBroadcastContent": "none"
+        },
+        "contentDetails":       {
+            "duration": "PT15M21S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true
+        },
+        "status":       {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true
+        },
+        "statistics":       {
+            "viewCount": "60259",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "129"
+        }
+    }]
+}
+
+
+

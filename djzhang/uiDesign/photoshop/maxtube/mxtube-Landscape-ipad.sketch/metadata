@@ -11,9 +11,10 @@
 	<key>fonts</key>
 	<array>
 		<string>HelveticaNeue-Medium</string>
+		<string>HelveticaNeue</string>
 	</array>
 	<key>length</key>
-	<integer>124145</integer>
+	<integer>205133</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>

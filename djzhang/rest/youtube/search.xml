@@ -1,0 +1,578 @@
+<feed gd:etag="W/&quot;DEYFSHk_cCp7I2A9XRZbFEw.&quot;" xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:gml="http://www.opengis.net/gml" xmlns:yt="http://gdata.youtube.com/schemas/2007" xmlns:georss="http://www.georss.org/georss">
+    <id>tag:youtube.com,2008:videos</id>
+    <updated>2014-08-19T02:41:59.748Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <title>Videos matching: solo piano</title>
+    <logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?v=2"/>
+    <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/batch?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?q=solo+piano&amp;start-index=11&amp;max-results=10&amp;orderby=published&amp;v=2"/>
+    <link rel="service" type="application/atomsvc+xml" href="http://gdata.youtube.com/feeds/api/videos?alt=atom-service&amp;v=2"/>
+    <link rel="previous" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?q=solo+piano&amp;start-index=1&amp;max-results=10&amp;orderby=published&amp;v=2"/>
+    <link rel="next" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?q=solo+piano&amp;start-index=21&amp;max-results=10&amp;orderby=published&amp;v=2"/>
+    <author>
+        <name>YouTube</name>
+        <uri>http://www.youtube.com/</uri>
+    </author>
+    <generator version="2.1" uri="http://gdata.youtube.com">YouTube data API</generator>
+    <openSearch:totalResults>1000000</openSearch:totalResults>
+    <openSearch:startIndex>11</openSearch:startIndex>
+    <openSearch:itemsPerPage>10</openSearch:itemsPerPage>
+
+    <entry gd:etag="W/&quot;DE8HQH47eCp7I2A9XRZbE0Q.&quot;">
+        <id>tag:youtube.com,2008:video:dMXYun3vOqw</id>
+        <published>2014-08-18T20:44:06.000Z</published>
+        <updated>2014-08-18T21:20:31.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+        <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+        <title>Emotional Solo Piano - Only In Your Mind</title>
+        <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/dMXYun3vOqw?version=3&amp;f=videos&amp;app=youtube_gdata"/>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=dMXYun3vOqw&amp;feature=youtube_gdata"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/dMXYun3vOqw/related?v=2"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=dMXYun3vOqw"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#uploader" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/Riy50z48xwNPKSO0c81UXw?v=2"/>
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/dMXYun3vOqw?v=2"/>
+        <author>
+            <name>JohnBobergMusic</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/BobergMusic</uri>
+            <yt:userId>Riy50z48xwNPKSO0c81UXw</yt:userId>
+        </author>
+        <yt:accessControl action="comment" permission="allowed"/>
+        <yt:accessControl action="commentVote" permission="allowed"/>
+        <yt:accessControl action="videoRespond" permission="moderated"/>
+        <yt:accessControl action="rate" permission="allowed"/>
+        <yt:accessControl action="embed" permission="allowed"/>
+        <yt:accessControl action="list" permission="allowed"/>
+        <yt:accessControl action="autoPlay" permission="allowed"/>
+        <yt:accessControl action="syndicate" permission="allowed"/>
+        <gd:comments>
+            <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#comments" href="http://gdata.youtube.com/feeds/api/videos/dMXYun3vOqw/comments?v=2" countHint="2"/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+            <media:content url="http://www.youtube.com/v/dMXYun3vOqw?version=3&amp;f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="228" yt:format="5"/>
+            <media:content url="rtsp://r5---sn-a5m7zu7z.c.youtube.com/CiILENy73wIaGQmsOu99utjFdBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="228" yt:format="1"/>
+            <media:content url="rtsp://r5---sn-a5m7zu7z.c.youtube.com/CiILENy73wIaGQmsOu99utjFdBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="228" yt:format="6"/>
+            <media:credit role="uploader" scheme="urn:youtube" yt:display="JohnBobergMusic" yt:type="partner">bobergmusic</media:credit>
+            <media:description type="plain">Purchase this track here: http://johnboberg.bandcamp.com/ My first solo piano piece. Everything composed and played by me on my keyboard. This piece started out during a late evening at...</media:description>
+            <media:keywords/>
+            <media:license type="text/html" href="http://www.youtube.com/t/terms">youtube</media:license>
+            <media:player url="http://www.youtube.com/watch?v=dMXYun3vOqw&amp;feature=youtube_gdata_player"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/dMXYun3vOqw/default.jpg" height="90" width="120" time="00:01:54" yt:name="default"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/dMXYun3vOqw/mqdefault.jpg" height="180" width="320" yt:name="mqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/dMXYun3vOqw/hqdefault.jpg" height="360" width="480" yt:name="hqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/dMXYun3vOqw/sddefault.jpg" height="480" width="640" yt:name="sddefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/dMXYun3vOqw/1.jpg" height="90" width="120" time="00:00:57" yt:name="start"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/dMXYun3vOqw/2.jpg" height="90" width="120" time="00:01:54" yt:name="middle"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/dMXYun3vOqw/3.jpg" height="90" width="120" time="00:02:51" yt:name="end"/>
+            <media:title type="plain">Emotional Solo Piano - Only In Your Mind</media:title>
+            <yt:aspectRatio>widescreen</yt:aspectRatio>
+            <yt:duration seconds="228"/>
+            <yt:uploaded>2014-08-18T20:44:06.000Z</yt:uploaded>
+            <yt:uploaderId>UCRiy50z48xwNPKSO0c81UXw</yt:uploaderId>
+            <yt:videoid>dMXYun3vOqw</yt:videoid>
+        </media:group>
+        <gd:rating average="5.0" max="5" min="1" numRaters="4" rel="http://schemas.google.com/g/2005#overall"/>
+        <yt:statistics favoriteCount="0" viewCount="9"/>
+        <yt:rating numDislikes="0" numLikes="4"/>
+    </entry>
+
+    <entry gd:etag="W/&quot;CEQFQn47eCp7I2A9XRZbE0Q.&quot;">
+        <id>tag:youtube.com,2008:video:6sfsrre6U_I</id>
+        <published>2014-08-18T20:04:18.000Z</published>
+        <updated>2014-08-18T20:05:13.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+        <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Entertainment" label="Entertainment"/>
+        <title>MTJ piano solo by ear: D.Elfman,H.Zimmer,J.N.Howard: Batman suite (Temný rytíř) (</title>
+        <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/6sfsrre6U_I?version=3&amp;f=videos&amp;app=youtube_gdata"/>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=6sfsrre6U_I&amp;feature=youtube_gdata"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/6sfsrre6U_I/related?v=2"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=6sfsrre6U_I"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#uploader" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/lFFwvj1sw_PzCJ6NfKoAQA?v=2"/>
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/6sfsrre6U_I?v=2"/>
+        <author>
+            <name>Jiří Růžička</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/golfoxovox</uri>
+            <yt:userId>lFFwvj1sw_PzCJ6NfKoAQA</yt:userId>
+        </author>
+        <yt:accessControl action="comment" permission="allowed"/>
+        <yt:accessControl action="commentVote" permission="allowed"/>
+        <yt:accessControl action="videoRespond" permission="moderated"/>
+        <yt:accessControl action="rate" permission="allowed"/>
+        <yt:accessControl action="embed" permission="allowed"/>
+        <yt:accessControl action="list" permission="allowed"/>
+        <yt:accessControl action="autoPlay" permission="allowed"/>
+        <yt:accessControl action="syndicate" permission="allowed"/>
+        <gd:comments>
+            <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#comments" href="http://gdata.youtube.com/feeds/api/videos/6sfsrre6U_I/comments?v=2" countHint="0"/>
+        </gd:comments>
+        <media:group>
+            <media:category label="Entertainment" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Entertainment</media:category>
+            <media:content url="http://www.youtube.com/v/6sfsrre6U_I?version=3&amp;f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="371" yt:format="5"/>
+            <media:content url="rtsp://r1---sn-a5m7zu7l.c.youtube.com/CiILENy73wIaGQnyU7q3ruzH6hMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="371" yt:format="1"/>
+            <media:content url="rtsp://r1---sn-a5m7zu7l.c.youtube.com/CiILENy73wIaGQnyU7q3ruzH6hMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="371" yt:format="6"/>
+            <media:credit role="uploader" scheme="urn:youtube" yt:display="Jiří Růžička">golfoxovox</media:credit>
+            <media:description type="plain">Own piano improvisation - some Batman themes composed by Danny Elfman, Hans Zimmer and James Newton Howard. Sorry for mistakes, difficult to play for me. Vlastní suita na některá z batmanských...</media:description>
+            <media:keywords/>
+            <media:license type="text/html" href="http://www.youtube.com/t/terms">youtube</media:license>
+            <media:player url="http://www.youtube.com/watch?v=6sfsrre6U_I&amp;feature=youtube_gdata_player"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/6sfsrre6U_I/default.jpg" height="90" width="120" time="00:03:05.500" yt:name="default"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/6sfsrre6U_I/mqdefault.jpg" height="180" width="320" yt:name="mqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/6sfsrre6U_I/hqdefault.jpg" height="360" width="480" yt:name="hqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/6sfsrre6U_I/sddefault.jpg" height="480" width="640" yt:name="sddefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/6sfsrre6U_I/1.jpg" height="90" width="120" time="00:01:32.750" yt:name="start"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/6sfsrre6U_I/2.jpg" height="90" width="120" time="00:03:05.500" yt:name="middle"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/6sfsrre6U_I/3.jpg" height="90" width="120" time="00:04:38.250" yt:name="end"/>
+            <media:title type="plain">MTJ piano solo by ear: D.Elfman,H.Zimmer,J.N.Howard: Batman suite (Temný rytíř) (</media:title>
+            <yt:duration seconds="371"/>
+            <yt:uploaded>2014-08-18T20:04:18.000Z</yt:uploaded>
+            <yt:uploaderId>UClFFwvj1sw_PzCJ6NfKoAQA</yt:uploaderId>
+            <yt:videoid>6sfsrre6U_I</yt:videoid>
+        </media:group>
+    </entry>
+
+    <entry gd:etag="W/&quot;CEMHRX47eCp7I2A9XRZbE0Q.&quot;">
+        <id>tag:youtube.com,2008:video:gkIYWKTXm-s</id>
+        <published>2014-08-18T20:01:15.000Z</published>
+        <updated>2014-08-18T20:07:14.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+        <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="People" label="People &amp; Blogs"/>
+        <title>Over the scene solo piano solista e base cosi è nato</title>
+        <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/gkIYWKTXm-s?version=3&amp;f=videos&amp;app=youtube_gdata"/>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=gkIYWKTXm-s&amp;feature=youtube_gdata"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/gkIYWKTXm-s/related?v=2"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=gkIYWKTXm-s"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#uploader" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/O8ulzByimy6vD1AFkxsCNA?v=2"/>
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/gkIYWKTXm-s?v=2"/>
+        <author>
+            <name>Max manni</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/O8ulzByimy6vD1AFkxsCNA</uri>
+            <yt:userId>O8ulzByimy6vD1AFkxsCNA</yt:userId>
+        </author>
+        <yt:accessControl action="comment" permission="allowed"/>
+        <yt:accessControl action="commentVote" permission="allowed"/>
+        <yt:accessControl action="videoRespond" permission="moderated"/>
+        <yt:accessControl action="rate" permission="allowed"/>
+        <yt:accessControl action="embed" permission="allowed"/>
+        <yt:accessControl action="list" permission="allowed"/>
+        <yt:accessControl action="autoPlay" permission="allowed"/>
+        <yt:accessControl action="syndicate" permission="allowed"/>
+        <gd:comments>
+            <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#comments" href="http://gdata.youtube.com/feeds/api/videos/gkIYWKTXm-s/comments?v=2" countHint="0"/>
+        </gd:comments>
+        <media:group>
+            <media:category label="People &amp; Blogs" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">People</media:category>
+            <media:content url="http://www.youtube.com/v/gkIYWKTXm-s?version=3&amp;f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="166" yt:format="5"/>
+            <media:content url="rtsp://r5---sn-a5m7zu7k.c.youtube.com/CiILENy73wIaGQnrm9ekWBhCghMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="166" yt:format="1"/>
+            <media:content url="rtsp://r5---sn-a5m7zu7k.c.youtube.com/CiILENy73wIaGQnrm9ekWBhCghMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="166" yt:format="6"/>
+            <media:credit role="uploader" scheme="urn:youtube" yt:display="Max manni">O8ulzByimy6vD1AFkxsCNA</media:credit>
+            <media:description type="plain">Molti mi dicono i suoni sintetici non realizzano e concretizzano lo stesso brano meglio la semplicità del piano cosi con altre foto lo voluto riproporre cosi come è nato quello stesso giorno...</media:description>
+            <media:keywords/>
+            <media:license type="text/html" href="http://www.youtube.com/t/terms">youtube</media:license>
+            <media:player url="http://www.youtube.com/watch?v=gkIYWKTXm-s&amp;feature=youtube_gdata_player"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/gkIYWKTXm-s/default.jpg" height="90" width="120" time="00:01:23" yt:name="default"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/gkIYWKTXm-s/mqdefault.jpg" height="180" width="320" yt:name="mqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/gkIYWKTXm-s/hqdefault.jpg" height="360" width="480" yt:name="hqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/gkIYWKTXm-s/sddefault.jpg" height="480" width="640" yt:name="sddefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/gkIYWKTXm-s/1.jpg" height="90" width="120" time="00:00:41.500" yt:name="start"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/gkIYWKTXm-s/2.jpg" height="90" width="120" time="00:01:23" yt:name="middle"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/gkIYWKTXm-s/3.jpg" height="90" width="120" time="00:02:04.500" yt:name="end"/>
+            <media:title type="plain">Over the scene solo piano solista e base cosi è nato</media:title>
+            <yt:duration seconds="166"/>
+            <yt:uploaded>2014-08-18T20:01:15.000Z</yt:uploaded>
+            <yt:uploaderId>UCO8ulzByimy6vD1AFkxsCNA</yt:uploaderId>
+            <yt:videoid>gkIYWKTXm-s</yt:videoid>
+        </media:group>
+        <gd:rating average="5.0" max="5" min="1" numRaters="1" rel="http://schemas.google.com/g/2005#overall"/>
+        <yt:statistics favoriteCount="0" viewCount="1"/>
+        <yt:rating numDislikes="0" numLikes="1"/>
+    </entry>
+
+    <entry gd:etag="W/&quot;C0QDR347eCp7I2A9XRZbE0Q.&quot;">
+        <id>tag:youtube.com,2008:video:Jn7q3197IMY</id>
+        <published>2014-08-18T19:42:27.000Z</published>
+        <updated>2014-08-18T19:49:36.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+        <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Education" label="Education"/>
+        <title>So In Love - piano solo</title>
+        <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/Jn7q3197IMY?version=3&amp;f=videos&amp;app=youtube_gdata"/>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=Jn7q3197IMY&amp;feature=youtube_gdata"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Jn7q3197IMY/related?v=2"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=Jn7q3197IMY"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#uploader" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/qyoofKWpnrGJr5dYPTgwLg?v=2"/>
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Jn7q3197IMY?v=2"/>
+        <author>
+            <name>Fenix Creciente</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/qyoofKWpnrGJr5dYPTgwLg</uri>
+            <yt:userId>qyoofKWpnrGJr5dYPTgwLg</yt:userId>
+        </author>
+        <yt:accessControl action="comment" permission="allowed"/>
+        <yt:accessControl action="commentVote" permission="allowed"/>
+        <yt:accessControl action="videoRespond" permission="moderated"/>
+        <yt:accessControl action="rate" permission="allowed"/>
+        <yt:accessControl action="embed" permission="allowed"/>
+        <yt:accessControl action="list" permission="allowed"/>
+        <yt:accessControl action="autoPlay" permission="allowed"/>
+        <yt:accessControl action="syndicate" permission="allowed"/>
+        <gd:comments>
+            <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#comments" href="http://gdata.youtube.com/feeds/api/videos/Jn7q3197IMY/comments?v=2" countHint="0"/>
+        </gd:comments>
+        <media:group>
+            <media:category label="Education" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Education</media:category>
+            <media:content url="http://www.youtube.com/v/Jn7q3197IMY?version=3&amp;f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="206" yt:format="5"/>
+            <media:content url="rtsp://r8---sn-a5m7zu7s.c.youtube.com/CiILENy73wIaGQnGIHtf3-p-JhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="206" yt:format="1"/>
+            <media:content url="rtsp://r8---sn-a5m7zu7s.c.youtube.com/CiILENy73wIaGQnGIHtf3-p-JhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="206" yt:format="6"/>
+            <media:credit role="uploader" scheme="urn:youtube" yt:display="Fenix Creciente">qyoofKWpnrGJr5dYPTgwLg</media:credit>
+            <media:description type="plain">Cole Porter – So In Love Lyrics Strange dear, but true dear, When I'm close to you, dear, The stars fill the sky, So in love with you am I. Even without you, My arms fold about you, You...</media:description>
+            <media:keywords/>
+            <media:license type="text/html" href="http://www.youtube.com/t/terms">youtube</media:license>
+            <media:player url="http://www.youtube.com/watch?v=Jn7q3197IMY&amp;feature=youtube_gdata_player"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/Jn7q3197IMY/default.jpg" height="90" width="120" time="00:01:43" yt:name="default"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/Jn7q3197IMY/mqdefault.jpg" height="180" width="320" yt:name="mqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/Jn7q3197IMY/hqdefault.jpg" height="360" width="480" yt:name="hqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/Jn7q3197IMY/sddefault.jpg" height="480" width="640" yt:name="sddefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/Jn7q3197IMY/1.jpg" height="90" width="120" time="00:00:51.500" yt:name="start"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/Jn7q3197IMY/2.jpg" height="90" width="120" time="00:01:43" yt:name="middle"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/Jn7q3197IMY/3.jpg" height="90" width="120" time="00:02:34.500" yt:name="end"/>
+            <media:title type="plain">So In Love - piano solo</media:title>
+            <yt:aspectRatio>widescreen</yt:aspectRatio>
+            <yt:duration seconds="206"/>
+            <yt:uploaded>2014-08-18T19:42:27.000Z</yt:uploaded>
+            <yt:uploaderId>UCqyoofKWpnrGJr5dYPTgwLg</yt:uploaderId>
+            <yt:videoid>Jn7q3197IMY</yt:videoid>
+        </media:group>
+        <yt:statistics favoriteCount="0" viewCount="3"/>
+    </entry>
+
+    <entry gd:etag="W/&quot;AkQDQX47eCp7I2A9XRZbE0U.&quot;">
+        <id>tag:youtube.com,2008:video:S5BDdPXiBVo</id>
+        <published>2014-08-18T18:59:30.000Z</published>
+        <updated>2014-08-18T18:59:30.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+        <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Entertainment" label="Entertainment"/>
+        <title>MTJ piano solo by ear: Henry Jackman: Kick Ass</title>
+        <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/S5BDdPXiBVo?version=3&amp;f=videos&amp;app=youtube_gdata"/>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=S5BDdPXiBVo&amp;feature=youtube_gdata"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/S5BDdPXiBVo/related?v=2"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=S5BDdPXiBVo"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#uploader" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/lFFwvj1sw_PzCJ6NfKoAQA?v=2"/>
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/S5BDdPXiBVo?v=2"/>
+        <author>
+            <name>Jiří Růžička</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/golfoxovox</uri>
+            <yt:userId>lFFwvj1sw_PzCJ6NfKoAQA</yt:userId>
+        </author>
+        <yt:accessControl action="comment" permission="allowed"/>
+        <yt:accessControl action="commentVote" permission="allowed"/>
+        <yt:accessControl action="videoRespond" permission="moderated"/>
+        <yt:accessControl action="rate" permission="allowed"/>
+        <yt:accessControl action="embed" permission="allowed"/>
+        <yt:accessControl action="list" permission="allowed"/>
+        <yt:accessControl action="autoPlay" permission="allowed"/>
+        <yt:accessControl action="syndicate" permission="allowed"/>
+        <gd:comments>
+            <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#comments" href="http://gdata.youtube.com/feeds/api/videos/S5BDdPXiBVo/comments?v=2" countHint="0"/>
+        </gd:comments>
+        <media:group>
+            <media:category label="Entertainment" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Entertainment</media:category>
+            <media:content url="http://www.youtube.com/v/S5BDdPXiBVo?version=3&amp;f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="239" yt:format="5"/>
+            <media:content url="rtsp://r4---sn-a5m7zu7d.c.youtube.com/CiILENy73wIaGQlaBeL1dEOQSxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="239" yt:format="1"/>
+            <media:content url="rtsp://r4---sn-a5m7zu7d.c.youtube.com/CiILENy73wIaGQlaBeL1dEOQSxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="239" yt:format="6"/>
+            <media:credit role="uploader" scheme="urn:youtube" yt:display="Jiří Růžička">golfoxovox</media:credit>
+            <media:description type="plain">Own improvisation created on the Kick ass main theme composed by Henry Jackman. Vlastní improvizace na čtyřakordové téma Kick Asse.</media:description>
+            <media:keywords/>
+            <media:license type="text/html" href="http://www.youtube.com/t/terms">youtube</media:license>
+            <media:player url="http://www.youtube.com/watch?v=S5BDdPXiBVo&amp;feature=youtube_gdata_player"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/S5BDdPXiBVo/default.jpg" height="90" width="120" time="00:01:59.500" yt:name="default"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/S5BDdPXiBVo/mqdefault.jpg" height="180" width="320" yt:name="mqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/S5BDdPXiBVo/hqdefault.jpg" height="360" width="480" yt:name="hqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/S5BDdPXiBVo/sddefault.jpg" height="480" width="640" yt:name="sddefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/S5BDdPXiBVo/1.jpg" height="90" width="120" time="00:00:59.750" yt:name="start"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/S5BDdPXiBVo/2.jpg" height="90" width="120" time="00:01:59.500" yt:name="middle"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/S5BDdPXiBVo/3.jpg" height="90" width="120" time="00:02:59.250" yt:name="end"/>
+            <media:title type="plain">MTJ piano solo by ear: Henry Jackman: Kick Ass</media:title>
+            <yt:duration seconds="239"/>
+            <yt:uploaded>2014-08-18T18:59:30.000Z</yt:uploaded>
+            <yt:uploaderId>UClFFwvj1sw_PzCJ6NfKoAQA</yt:uploaderId>
+            <yt:videoid>S5BDdPXiBVo</yt:videoid>
+        </media:group>
+    </entry>
+
+    <entry gd:etag="W/&quot;DU8ERX47eCp7I2A9XRZbE0U.&quot;">
+        <id>tag:youtube.com,2008:video:l1P11YL66MU</id>
+        <published>2014-08-18T18:50:04.000Z</published>
+        <updated>2014-08-18T18:50:04.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+        <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+        <title>Come Fly With Me Piano Solo</title>
+        <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/l1P11YL66MU?version=3&amp;f=videos&amp;app=youtube_gdata"/>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=l1P11YL66MU&amp;feature=youtube_gdata"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/l1P11YL66MU/related?v=2"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#uploader" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/0ic13ZKgzGy4rfCZrpymrw?v=2"/>
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/l1P11YL66MU?v=2"/>
+        <author>
+            <name>fridgecow</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/fridgecow</uri>
+            <yt:userId>0ic13ZKgzGy4rfCZrpymrw</yt:userId>
+        </author>
+        <yt:accessControl action="comment" permission="allowed"/>
+        <yt:accessControl action="commentVote" permission="allowed"/>
+        <yt:accessControl action="videoRespond" permission="moderated"/>
+        <yt:accessControl action="rate" permission="allowed"/>
+        <yt:accessControl action="embed" permission="allowed"/>
+        <yt:accessControl action="list" permission="allowed"/>
+        <yt:accessControl action="autoPlay" permission="allowed"/>
+        <yt:accessControl action="syndicate" permission="allowed"/>
+        <gd:comments>
+            <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#comments" href="http://gdata.youtube.com/feeds/api/videos/l1P11YL66MU/comments?v=2" countHint="0"/>
+        </gd:comments>
+        <georss:where>
+            <gml:Point>
+                <gml:pos>53.38745880126953 -1.5016000270843506</gml:pos>
+            </gml:Point>
+        </georss:where>
+        <media:group>
+            <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+            <media:content url="http://www.youtube.com/v/l1P11YL66MU?version=3&amp;f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="103" yt:format="5"/>
+            <media:credit role="uploader" scheme="urn:youtube" yt:display="fridgecow" yt:type="partner">fridgecow</media:credit>
+            <media:description type="plain">Me playing a shortened version of the famous Sinatra song (the full one just has the middle eight again, boring)</media:description>
+            <media:keywords/>
+            <media:license type="text/html" href="http://creativecommons.org/licenses/by/3.0/">cc</media:license>
+            <media:player url="http://www.youtube.com/watch?v=l1P11YL66MU&amp;feature=youtube_gdata_player"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/l1P11YL66MU/default.jpg" height="90" width="120" time="00:00:51.500" yt:name="default"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/l1P11YL66MU/mqdefault.jpg" height="180" width="320" yt:name="mqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/l1P11YL66MU/hqdefault.jpg" height="360" width="480" yt:name="hqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/l1P11YL66MU/1.jpg" height="90" width="120" time="00:00:25.750" yt:name="start"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/l1P11YL66MU/2.jpg" height="90" width="120" time="00:00:51.500" yt:name="middle"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/l1P11YL66MU/3.jpg" height="90" width="120" time="00:01:17.250" yt:name="end"/>
+            <media:title type="plain">Come Fly With Me Piano Solo</media:title>
+            <yt:aspectRatio>widescreen</yt:aspectRatio>
+            <yt:duration seconds="103"/>
+            <yt:uploaded>2014-08-18T18:50:04.000Z</yt:uploaded>
+            <yt:uploaderId>UC0ic13ZKgzGy4rfCZrpymrw</yt:uploaderId>
+            <yt:videoid>l1P11YL66MU</yt:videoid>
+        </media:group>
+        <yt:recorded>2014-08-18</yt:recorded>
+    </entry>
+
+    <entry gd:etag="W/&quot;DUANSX47eCp7I2A9XRZbE0U.&quot;">
+        <id>tag:youtube.com,2008:video:KJj2dc_q0z4</id>
+        <published>2014-08-18T18:49:58.000Z</published>
+        <updated>2014-08-18T18:49:58.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+        <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+        <title>新世紀エヴァンゲリオン 「残酷な天使のテーゼ」 ad lib piano solo</title>
+        <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/KJj2dc_q0z4?version=3&amp;f=videos&amp;app=youtube_gdata"/>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=KJj2dc_q0z4&amp;feature=youtube_gdata"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/KJj2dc_q0z4/related?v=2"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=KJj2dc_q0z4"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#uploader" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/yXhIXaDrbGigc_upgZXyHg?v=2"/>
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/KJj2dc_q0z4?v=2"/>
+        <author>
+            <name>so-ri</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/rabutansouri</uri>
+            <yt:userId>yXhIXaDrbGigc_upgZXyHg</yt:userId>
+        </author>
+        <yt:accessControl action="comment" permission="allowed"/>
+        <yt:accessControl action="commentVote" permission="allowed"/>
+        <yt:accessControl action="videoRespond" permission="moderated"/>
+        <yt:accessControl action="rate" permission="allowed"/>
+        <yt:accessControl action="embed" permission="allowed"/>
+        <yt:accessControl action="list" permission="allowed"/>
+        <yt:accessControl action="autoPlay" permission="allowed"/>
+        <yt:accessControl action="syndicate" permission="allowed"/>
+        <gd:comments>
+            <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#comments" href="http://gdata.youtube.com/feeds/api/videos/KJj2dc_q0z4/comments?v=2" countHint="0"/>
+        </gd:comments>
+        <media:group>
+            <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+            <media:content url="http://www.youtube.com/v/KJj2dc_q0z4?version=3&amp;f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="127" yt:format="5"/>
+            <media:content url="rtsp://r2---sn-a5m7zu76.c.youtube.com/CiILENy73wIaGQk-0-rPdfaYKBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="127" yt:format="1"/>
+            <media:content url="rtsp://r2---sn-a5m7zu76.c.youtube.com/CiILENy73wIaGQk-0-rPdfaYKBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="127" yt:format="6"/>
+            <media:credit role="uploader" scheme="urn:youtube" yt:display="so-ri">rabutansouri</media:credit>
+            <media:description type="plain">twitter(@highlow97531) https://twitter.com/highlow97531.</media:description>
+            <media:keywords/>
+            <media:license type="text/html" href="http://www.youtube.com/t/terms">youtube</media:license>
+            <media:player url="http://www.youtube.com/watch?v=KJj2dc_q0z4&amp;feature=youtube_gdata_player"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/KJj2dc_q0z4/default.jpg" height="90" width="120" time="00:01:03.500" yt:name="default"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/KJj2dc_q0z4/mqdefault.jpg" height="180" width="320" yt:name="mqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/KJj2dc_q0z4/hqdefault.jpg" height="360" width="480" yt:name="hqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/KJj2dc_q0z4/sddefault.jpg" height="480" width="640" yt:name="sddefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/KJj2dc_q0z4/1.jpg" height="90" width="120" time="00:00:31.750" yt:name="start"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/KJj2dc_q0z4/2.jpg" height="90" width="120" time="00:01:03.500" yt:name="middle"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/KJj2dc_q0z4/3.jpg" height="90" width="120" time="00:01:35.250" yt:name="end"/>
+            <media:title type="plain">新世紀エヴァンゲリオン 「残酷な天使のテーゼ」 ad lib piano solo</media:title>
+            <yt:duration seconds="127"/>
+            <yt:uploaded>2014-08-18T18:49:58.000Z</yt:uploaded>
+            <yt:uploaderId>UCyXhIXaDrbGigc_upgZXyHg</yt:uploaderId>
+            <yt:videoid>KJj2dc_q0z4</yt:videoid>
+        </media:group>
+    </entry>
+
+    <entry gd:etag="W/&quot;DUEAQX47eCp7I2A9XRZbE0U.&quot;">
+        <id>tag:youtube.com,2008:video:_qyLThCtsxc</id>
+        <published>2014-08-18T18:47:20.000Z</published>
+        <updated>2014-08-18T18:47:20.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+        <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="People" label="People &amp; Blogs"/>
+        <title>Ane Brun - Du Gråter Så Store Tåra (solo piano arrangement)</title>
+        <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/_qyLThCtsxc?version=3&amp;f=videos&amp;app=youtube_gdata"/>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=_qyLThCtsxc&amp;feature=youtube_gdata"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/_qyLThCtsxc/related?v=2"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=_qyLThCtsxc"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#uploader" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ouM63hRtWxSDEin6W_A7hQ?v=2"/>
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/_qyLThCtsxc?v=2"/>
+        <author>
+            <name>apianothatplays</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/apianothatplays</uri>
+            <yt:userId>ouM63hRtWxSDEin6W_A7hQ</yt:userId>
+        </author>
+        <yt:accessControl action="comment" permission="allowed"/>
+        <yt:accessControl action="commentVote" permission="allowed"/>
+        <yt:accessControl action="videoRespond" permission="moderated"/>
+        <yt:accessControl action="rate" permission="allowed"/>
+        <yt:accessControl action="embed" permission="allowed"/>
+        <yt:accessControl action="list" permission="allowed"/>
+        <yt:accessControl action="autoPlay" permission="allowed"/>
+        <yt:accessControl action="syndicate" permission="allowed"/>
+        <gd:comments>
+            <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#comments" href="http://gdata.youtube.com/feeds/api/videos/_qyLThCtsxc/comments?v=2" countHint="0"/>
+        </gd:comments>
+        <media:group>
+            <media:category label="People &amp; Blogs" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">People</media:category>
+            <media:content url="http://www.youtube.com/v/_qyLThCtsxc?version=3&amp;f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="198" yt:format="5"/>
+            <media:content url="rtsp://r3---sn-a5m7zu7k.c.youtube.com/CiILENy73wIaGQkXs60QTous_hMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="198" yt:format="1"/>
+            <media:content url="rtsp://r3---sn-a5m7zu7k.c.youtube.com/CiILENy73wIaGQkXs60QTous_hMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="198" yt:format="6"/>
+            <media:credit role="uploader" scheme="urn:youtube" yt:display="apianothatplays">apianothatplays</media:credit>
+            <media:description type="plain">From "It All Starts with One". One of the most beautiful songs I've ever heard.</media:description>
+            <media:keywords/>
+            <media:license type="text/html" href="http://www.youtube.com/t/terms">youtube</media:license>
+            <media:player url="http://www.youtube.com/watch?v=_qyLThCtsxc&amp;feature=youtube_gdata_player"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/_qyLThCtsxc/default.jpg" height="90" width="120" time="00:01:39" yt:name="default"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/_qyLThCtsxc/mqdefault.jpg" height="180" width="320" yt:name="mqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/_qyLThCtsxc/hqdefault.jpg" height="360" width="480" yt:name="hqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/_qyLThCtsxc/sddefault.jpg" height="480" width="640" yt:name="sddefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/_qyLThCtsxc/1.jpg" height="90" width="120" time="00:00:49.500" yt:name="start"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/_qyLThCtsxc/2.jpg" height="90" width="120" time="00:01:39" yt:name="middle"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/_qyLThCtsxc/3.jpg" height="90" width="120" time="00:02:28.500" yt:name="end"/>
+            <media:title type="plain">Ane Brun - Du Gråter Så Store Tåra (solo piano arrangement)</media:title>
+            <yt:aspectRatio>widescreen</yt:aspectRatio>
+            <yt:duration seconds="198"/>
+            <yt:uploaded>2014-08-18T18:47:20.000Z</yt:uploaded>
+            <yt:uploaderId>UCouM63hRtWxSDEin6W_A7hQ</yt:uploaderId>
+            <yt:videoid>_qyLThCtsxc</yt:videoid>
+        </media:group>
+    </entry>
+
+    <entry gd:etag="W/&quot;DUIHRH47eCp7I2A9XRZbE0U.&quot;">
+        <id>tag:youtube.com,2008:video:mcsRKj4k3no</id>
+        <published>2014-08-18T18:45:35.000Z</published>
+        <updated>2014-08-18T18:45:35.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+        <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+        <title>「Fly Me to the Moon」 ad lib piano solo</title>
+        <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/mcsRKj4k3no?version=3&amp;f=videos&amp;app=youtube_gdata"/>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=mcsRKj4k3no&amp;feature=youtube_gdata"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/mcsRKj4k3no/related?v=2"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=mcsRKj4k3no"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#uploader" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/yXhIXaDrbGigc_upgZXyHg?v=2"/>
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/mcsRKj4k3no?v=2"/>
+        <author>
+            <name>so-ri</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/rabutansouri</uri>
+            <yt:userId>yXhIXaDrbGigc_upgZXyHg</yt:userId>
+        </author>
+        <yt:accessControl action="comment" permission="allowed"/>
+        <yt:accessControl action="commentVote" permission="allowed"/>
+        <yt:accessControl action="videoRespond" permission="moderated"/>
+        <yt:accessControl action="rate" permission="allowed"/>
+        <yt:accessControl action="embed" permission="allowed"/>
+        <yt:accessControl action="list" permission="allowed"/>
+        <yt:accessControl action="autoPlay" permission="allowed"/>
+        <yt:accessControl action="syndicate" permission="allowed"/>
+        <gd:comments>
+            <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#comments" href="http://gdata.youtube.com/feeds/api/videos/mcsRKj4k3no/comments?v=2" countHint="0"/>
+        </gd:comments>
+        <media:group>
+            <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+            <media:content url="http://www.youtube.com/v/mcsRKj4k3no?version=3&amp;f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="186" yt:format="5"/>
+            <media:content url="rtsp://r1---sn-a5m7zu7r.c.youtube.com/CiILENy73wIaGQl63iQ-KhHLmRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="186" yt:format="1"/>
+            <media:content url="rtsp://r1---sn-a5m7zu7r.c.youtube.com/CiILENy73wIaGQl63iQ-KhHLmRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="186" yt:format="6"/>
+            <media:credit role="uploader" scheme="urn:youtube" yt:display="so-ri">rabutansouri</media:credit>
+            <media:description type="plain">「Fly Me to the Moon」 ad lib piano solo twitter(@highlow97531) https://twitter.com/highlow97531.</media:description>
+            <media:keywords/>
+            <media:license type="text/html" href="http://www.youtube.com/t/terms">youtube</media:license>
+            <media:player url="http://www.youtube.com/watch?v=mcsRKj4k3no&amp;feature=youtube_gdata_player"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/mcsRKj4k3no/default.jpg" height="90" width="120" time="00:01:33" yt:name="default"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/mcsRKj4k3no/mqdefault.jpg" height="180" width="320" yt:name="mqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/mcsRKj4k3no/hqdefault.jpg" height="360" width="480" yt:name="hqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/mcsRKj4k3no/sddefault.jpg" height="480" width="640" yt:name="sddefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/mcsRKj4k3no/1.jpg" height="90" width="120" time="00:00:46.500" yt:name="start"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/mcsRKj4k3no/2.jpg" height="90" width="120" time="00:01:33" yt:name="middle"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/mcsRKj4k3no/3.jpg" height="90" width="120" time="00:02:19.500" yt:name="end"/>
+            <media:title type="plain">「Fly Me to the Moon」 ad lib piano solo</media:title>
+            <yt:duration seconds="186"/>
+            <yt:uploaded>2014-08-18T18:45:35.000Z</yt:uploaded>
+            <yt:uploaderId>UCyXhIXaDrbGigc_upgZXyHg</yt:uploaderId>
+            <yt:videoid>mcsRKj4k3no</yt:videoid>
+        </media:group>
+    </entry>
+
+    <entry gd:etag="W/&quot;DUYBQ347eCp7I2A9XRZbE0U.&quot;">
+        <id>tag:youtube.com,2008:video:xbKHR8PAmJ8</id>
+        <published>2014-08-18T18:39:12.000Z</published>
+        <updated>2014-08-18T18:39:12.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+        <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="People" label="People &amp; Blogs"/>
+        <title>Jarrod Radnich - Virtuosic Piano Solo - Pirates of the Caribbean</title>
+        <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/xbKHR8PAmJ8?version=3&amp;f=videos&amp;app=youtube_gdata"/>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=xbKHR8PAmJ8&amp;feature=youtube_gdata"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/xbKHR8PAmJ8/related?v=2"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=xbKHR8PAmJ8"/>
+        <link rel="http://gdata.youtube.com/schemas/2007#uploader" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/dMyuSMIeFL8pnrx2oYTYPw?v=2"/>
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/xbKHR8PAmJ8?v=2"/>
+        <author>
+            <name>Ангелина михайловна</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/dMyuSMIeFL8pnrx2oYTYPw</uri>
+            <yt:userId>dMyuSMIeFL8pnrx2oYTYPw</yt:userId>
+        </author>
+        <yt:accessControl action="comment" permission="allowed"/>
+        <yt:accessControl action="commentVote" permission="allowed"/>
+        <yt:accessControl action="videoRespond" permission="moderated"/>
+        <yt:accessControl action="rate" permission="allowed"/>
+        <yt:accessControl action="embed" permission="allowed"/>
+        <yt:accessControl action="list" permission="allowed"/>
+        <yt:accessControl action="autoPlay" permission="allowed"/>
+        <yt:accessControl action="syndicate" permission="allowed"/>
+        <gd:comments>
+            <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#comments" href="http://gdata.youtube.com/feeds/api/videos/xbKHR8PAmJ8/comments?v=2" countHint="0"/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label="People &amp; Blogs" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">People</media:category>
+            <media:content url="http://www.youtube.com/v/xbKHR8PAmJ8?version=3&amp;f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="32" yt:format="5"/>
+            <media:content url="rtsp://r7---sn-a5m7zu7r.c.youtube.com/CiILENy73wIaGQmfmMDDR4eyxRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="32" yt:format="1"/>
+            <media:content url="rtsp://r7---sn-a5m7zu7r.c.youtube.com/CiILENy73wIaGQmfmMDDR4eyxRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="32" yt:format="6"/>
+            <media:credit role="uploader" scheme="urn:youtube" yt:display="Ангелина михайловна">dMyuSMIeFL8pnrx2oYTYPw</media:credit>
+            <media:description type="plain">это видео о игре танкионлайн.</media:description>
+            <media:keywords/>
+            <media:license type="text/html" href="http://www.youtube.com/t/terms">youtube</media:license>
+            <media:player url="http://www.youtube.com/watch?v=xbKHR8PAmJ8&amp;feature=youtube_gdata_player"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/xbKHR8PAmJ8/default.jpg" height="90" width="120" time="00:00:16" yt:name="default"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/xbKHR8PAmJ8/mqdefault.jpg" height="180" width="320" yt:name="mqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/xbKHR8PAmJ8/hqdefault.jpg" height="360" width="480" yt:name="hqdefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/xbKHR8PAmJ8/sddefault.jpg" height="480" width="640" yt:name="sddefault"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/xbKHR8PAmJ8/1.jpg" height="90" width="120" time="00:00:08" yt:name="start"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/xbKHR8PAmJ8/2.jpg" height="90" width="120" time="00:00:16" yt:name="middle"/>
+            <media:thumbnail url="http://i.ytimg.com/vi/xbKHR8PAmJ8/3.jpg" height="90" width="120" time="00:00:24" yt:name="end"/>
+            <media:title type="plain">Jarrod Radnich - Virtuosic Piano Solo - Pirates of the Caribbean</media:title>
+            <yt:aspectRatio>widescreen</yt:aspectRatio>
+            <yt:duration seconds="32"/>
+            <yt:uploaded>2014-08-18T18:39:12.000Z</yt:uploaded>
+            <yt:uploaderId>UCdMyuSMIeFL8pnrx2oYTYPw</yt:uploaderId>
+            <yt:videoid>xbKHR8PAmJ8</yt:videoid>
+        </media:group>
+    </entry>
+</feed>
